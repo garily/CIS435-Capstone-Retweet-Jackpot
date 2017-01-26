@@ -1,0 +1,39 @@
+html {
+    font-family: 'Calibri Light', sans-serif;
+}
+
+#formInput {
+    margin: 0 auto;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border-style: none;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px 10px;
+    font-size: 25px;
+}
+
+.left {
+    text-align: right;
+}
+
+input {
+    width: 200px;
+    height: 27px;
+}
+
+select {
+    font-size: 15px;
+    width: 200px;
+    height: 27px;
+}
+
+#submitBtn {
+    width: 100px;
+    height: 25px;
+}
