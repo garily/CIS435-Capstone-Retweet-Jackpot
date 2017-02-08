@@ -33,9 +33,9 @@
 		<div id="result">
 			<table class="center">
 			<?php
-			$host = 'cis435-proj-3.cr5h78hg8xtz.ap-northeast-1.rds.amazonaws.com';
-    		$username = 'admin';
-    		$password = 'cis435';
+			$host = '';
+    		$username = '';
+    		$password = '';
     		$db = 'CIS435_Capstone';
     		$conn = mysqli_connect($host, $username, $password);
 			$status = mysqli_select_db($conn, $db);
